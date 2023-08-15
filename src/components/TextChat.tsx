@@ -167,7 +167,7 @@ const TextChat = () => {
                     }  whitespace-pre-wrap block  break-words`}
                     style={{
                       boxShadow: "0px 2px 4px rgba(0, 0, 0, 0.2)",
-                      marginBottom: "8px", // Add margin to create separation between messages
+                      marginBottom: "8px", //margin to create separation between messages
                     }}
                   >
                     {msg.text}

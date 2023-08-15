@@ -10,7 +10,7 @@ interface cssquestion {
   answer: string;
 }
 
-const fetcher = (url) => fetch(url).then((res) => res.json());
+const fetcher = (url: string) => fetch(url).then((res) => res.json());
 
 export default function Index() {
   const { data, error } = useSWR("/api/staticdata", fetcher);

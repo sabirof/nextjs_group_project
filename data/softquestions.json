@@ -1,0 +1,172 @@
+{
+  "communication": [
+    {
+      "id": 1,
+      "question": "Tell me about a situation where you effectively communicated a complex technical concept to non-technical team members. How did you do it?",
+      "answer": "Use simple language, analogies, and visual aids to explain the concept clearly. Emphasize the importance of clear and accessible communication in development."
+    },
+    {
+      "id": 2,
+      "question": "How do you react to criticism of your work? Provide an example of how you used feedback to improve.",
+      "answer": "Show openness to feedback and share how you incorporated constructive suggestions to enhance your work."
+    },
+    {
+      "id": 3,
+      "question": "Give an example of a time when you adapted your communication style to be understood by someone with limited technical knowledge.",
+      "answer": "Describe how you simplified technical terms, used relatable examples, and ensured the person understood the message."
+    }
+  ],
+  "collaboration": [
+    {
+      "id": 1,
+      "question": "Tell me about a project where you had to collaborate with team members who had different viewpoints. How did you find common ground?",
+      "answer": "Highlight your ability to respect diverse opinions, actively listen, and facilitate discussions to reach consensus."
+    },
+    {
+      "id": 2,
+      "question": "How do you maintain a positive atmosphere within a group when opinions diverge?",
+      "answer": "Explain how you acknowledge each team member's input, encourage open dialogue, and focus on shared goals."
+    },
+    {
+      "id": 3,
+      "question": "Give an example of how your collaboration with colleagues led to improved outcomes.",
+      "answer": "Discuss a specific project where collaboration enhanced efficiency, creativity, and overall project success."
+    }
+  ],
+  "problem_solving": [
+    {
+      "id": 1,
+      "question": "Describe a challenging technical problem you faced. How did you analyze and solve it?",
+      "answer": "Detail the steps you took to break down the problem, analyze potential solutions, and the successful outcome."
+    },
+    {
+      "id": 2,
+      "question": "How do you approach solving urgent problems that arise unexpectedly during a project?",
+      "answer": "Explain how you stay calm, prioritize tasks, and make quick decisions while ensuring the quality of your work."
+    },
+    {
+      "id": 3,
+      "question": "Provide an example of a situation where you found an alternative solution when the initial plan didn't work.",
+      "answer": "Share a scenario where you adjusted your approach, evaluated options, and achieved a successful result despite initial setbacks."
+    }
+  ],
+  "adaptation": [
+    {
+      "id": 1,
+      "question": "Tell me about a project where requirements changed during development. How did you adapt to the changes?",
+      "answer": "Illustrate your flexibility in adjusting plans, embracing change, and focusing on delivering value despite shifting requirements."
+    },
+    {
+      "id": 2,
+      "question": "How do you adjust to using a new technology or programming language that you hadn't used before?",
+      "answer": "Highlight your eagerness to learn, research, and practice new skills to efficiently incorporate unfamiliar technologies."
+    },
+    {
+      "id": 3,
+      "question": "Give an example of how you successfully worked in a dynamic environment and achieved consistent results.",
+      "answer": "Discuss a situation where you thrived in an ever-changing setting, maintained high performance, and met objectives."
+    }
+  ],
+  "leadership": [
+    {
+      "id": 1,
+      "question": "Describe a project where you led a team. How did you motivate team members and achieve goals?",
+      "answer": "Detail your leadership approach, how you delegated tasks, inspired motivation, and coordinated efforts to reach project milestones."
+    },
+    {
+      "id": 2,
+      "question": "How do you support and inspire colleagues to pursue self-development?",
+      "answer": "Explain how you share resources, offer guidance, and demonstrate the value of continuous learning to your peers."
+    },
+    {
+      "id": 3,
+      "question": "Give an example of how your leadership contributed to building an effective team.",
+      "answer": "Share a project where your leadership fostered a positive team culture, improved communication, and enhanced overall performance."
+    }
+  ],
+  "time_management": [
+    {
+      "id": 1,
+      "question": "How do you organize your workweek to effectively meet deadlines?",
+      "answer": "Outline your methods of planning, setting priorities, and managing time to ensure timely completion of tasks."
+    },
+    {
+      "id": 2,
+      "question": "How do you react when plans change, and how does it impact your productivity?",
+      "answer": "Describe your adaptability when faced with changing plans and how you maintain productivity and focus."
+    },
+    {
+      "id": 3,
+      "question": "Provide an example of a time when you successfully handled multiple tasks simultaneously.",
+      "answer": "Share a situation where you efficiently balanced and managed multiple tasks without compromising quality."
+    }
+  ],
+  "creativity": [
+    {
+      "id": 1,
+      "question": "Give examples of how you applied creativity to solve complex problems.",
+      "answer": "Provide instances where your innovative thinking led to unique problem-solving approaches and improved outcomes."
+    },
+    {
+      "id": 2,
+      "question": "How do you nurture your creativity in your day-to-day work?",
+      "answer": "Explain how you seek inspiration, brainstorm ideas, and explore new perspectives to foster creative thinking."
+    },
+    {
+      "id": 3,
+      "question": "Describe a project where your unconventional thinking led to an innovative solution.",
+      "answer": "Discuss a project where you challenged conventions, introduced novel ideas, and achieved a successful, inventive solution."
+    }
+  ],
+  "teachability": [
+    {
+      "id": 1,
+      "question": "How did you learn a new technology or programming language? How did it benefit your work?",
+      "answer": "Share your learning process, emphasize the advantages of acquiring new skills, and how it positively impacted your work."
+    },
+    {
+      "id": 2,
+      "question": "What methods of learning do you prefer to quickly acquire new skills?",
+      "answer": "Explain your preferred learning approaches, such as online courses, practical exercises, and learning from experienced professionals."
+    },
+    {
+      "id": 3,
+      "question": "Give an example of how you rapidly acquired a new tool to optimize your work.",
+      "answer": "Describe a situation where you efficiently learned a new tool to enhance productivity and achieve better results."
+    }
+  ],
+  "conflict_resolution": [
+    {
+      "id": 1,
+      "question": "How do you approach resolving conflicts within a team? What methods do you use for mediation?",
+      "answer": "Detail your approach to conflict resolution, including active listening, seeking compromise, and maintaining a respectful environment."
+    },
+    {
+      "id": 2,
+      "question": "Provide an example of a time when you successfully mediated a conflict between two team members.",
+      "answer": "Share a specific instance where your intervention led to the peaceful resolution of a disagreement between colleagues."
+    },
+    {
+      "id": 3,
+      "question": "How do you maintain a positive atmosphere after resolving a conflict?",
+      "answer": "Explain how you foster positivity, encourage collaboration, and help rebuild relationships after conflict resolution."
+    }
+  ],
+  "emotional_intelligence": [
+    {
+      "id": 1,
+      "question": "How do you manage stress during intense project work?",
+      "answer": "Discuss your stress management techniques, such as breathing exercises, meditation, and physical activity, to maintain focus."
+    },
+    {
+      "id": 2,
+      "question": "Give an example of effectively communicating with emotionally distressed team members.",
+      "answer": "Share instances where you showed empathy, listened attentively, and provided support to colleagues experiencing emotional challenges."
+    },
+    {
+      "id": 3,
+      "question": "What practices do you employ to maintain a positive mood and motivation in yourself and others?",
+      "answer": "Explain how you focus on achievements, encourage a positive mindset, and inspire colleagues to stay motivated."
+    }
+  ]
+}
